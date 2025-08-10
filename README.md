@@ -31,7 +31,11 @@ LangGraph Code Assistant is a Streamlit-based web app that leverages cutting-edg
 
 ## 📸 Demo Screenshot
 
-*(Add a screenshot here to showcase the sleek UI)*
+<img width="1440" height="817" alt="Screenshot 2025-08-10 at 7 22 33 PM" src="https://github.com/user-attachments/assets/3f28112a-8243-4380-b339-a60b700c6ffe" />
+
+---
+<img width="1435" height="820" alt="Screenshot 2025-08-10 at 7 24 43 PM" src="https://github.com/user-attachments/assets/96dccba0-b81b-4bfe-aaea-2e7d663061ce" />
+
 
 ---
 
@@ -46,7 +50,7 @@ LangGraph Code Assistant is a Streamlit-based web app that leverages cutting-edg
 ### 📦 Installation
 
 ```bash
-git clone https://github.com/yPRAJINRAJ-RANAWAT/Langgraph-Code-Generator.git
+git clone https://github.com/yPRAJINRAJ-RANAWAT/Langgraph-Code-Assistant.git
 cd langgraph-code-assistant
 pip install -r requirements.txt
 ```
@@ -116,8 +120,7 @@ Open your browser at [http://localhost:8501](http://localhost:8501)
 
 ## 📬 Contact
 
-Created by **Prajin Ranawat**
-[Linkedin] (https://www.linkedin.com/in/prajinraj-ranawat-8257952a2/)
+Created by **Prajin Ranawat**  
+[LinkedIn](https://www.linkedin.com/in/prajinraj-ranawat-8257952a2/)
 
 
-Would you like me to generate that `requirements.txt` for your project next?
